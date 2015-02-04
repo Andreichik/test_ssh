@@ -1,0 +1,17 @@
+.orange {
+	color: orange;
+}
+
+.border-view {
+	border: 1px solid;
+}
+
+.code {
+	color: green;
+	font-weight: bold;
+}
+
+#p1 {
+	/* Это комментарий */
+	color: #3366FF;
+}
